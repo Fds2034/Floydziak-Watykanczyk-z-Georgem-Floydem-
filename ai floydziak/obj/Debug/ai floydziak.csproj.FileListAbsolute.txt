@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\bin\Debug\ai floydziak.exe.config
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\bin\Debug\ai floydziak.exe
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\bin\Debug\ai floydziak.pdb
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floydziak.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai_floydziak.Form1.resources
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai_floydziak.Form2.resources
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai_floydziak.Form3.resources
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai_floydziak.Form4.resources
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai_floydziak.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floydziak.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floydziak.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floydziak.exe
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floydziak.pdb
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Lenovo\source\repos\ai floydziak\ai floydziak\obj\Debug\ai floyd.5FB1EA80.Up2Date
